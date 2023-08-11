@@ -47,7 +47,7 @@ from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 # In[3]:
 
 
-iris = pd.read_csv(r'C:\Users\parveen\Desktop\iris.csv')
+iris = pd.read_csv(r'C:\Users\Rijul\Downloads\iris.csv')
 
 
 # In[27]:
